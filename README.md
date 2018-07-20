@@ -1,1 +1,3 @@
-# online_shop
+# eCommerce
+
+Online Shop Trading System
