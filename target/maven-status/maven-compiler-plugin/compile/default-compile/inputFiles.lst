@@ -13,7 +13,9 @@ C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\service\Cust
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\controller\RegistrationController.java
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\service\CustomerServiceImpl.java
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\service\CartItemServiceImpl.java
+C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\service\SalesOrderService.java
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\controller\HomePageController.java
+C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\dao\SalesOrderDaoImpl.java
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\ApplicationConfig.java
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\controller\ProductController.java
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\controller\CartItemController.java
@@ -26,6 +28,9 @@ C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\dao\ProductD
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\model\SalesOrder.java
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\model\Authorities.java
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\dao\CartDao.java
+C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\dao\SalesOrderDao.java
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\model\Product.java
+C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\controller\OrderController.java
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\service\CartService.java
 C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\dao\CartDaoImpl.java
+C:\Users\z4yi\eclipse-workspace\onlineShop\src\main\java\onlineShop\service\SalesOrderServiceImpl.java
