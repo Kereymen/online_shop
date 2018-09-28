@@ -15,6 +15,6 @@ their budget and ads' bid and we calculate the best socre ad the show it to the 
 
 Languages: JSX, Java, MySQL
 
-Framework: Spring, Hibernate, Maven Project, Apache Tomcat Server, MAMP, Java Servlet
+Framework: Spring, Hibernate, Maven Project, Apache Tomcat Server, MAMP, Java Servlet, Real-time bidding Ads
 
 Libraries: JSON, JDBC
