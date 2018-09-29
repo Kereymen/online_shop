@@ -1,4 +1,4 @@
-# eCommerce
+# Online Shop
 
 Demo video URL: https://youtu.be/-CJTk0IUo2I
 
